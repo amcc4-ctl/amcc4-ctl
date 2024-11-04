@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1>Hi, I'm Ashia!</h1>
+<a><b>Cybersecurity Professional</b></a>, <a><b>Developer</b></a>
+<br/><a><i>I am a recent master's graduate with a profound interest in defensive security. My journey in engineering and computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field as a cyber professional.</i></a>
 
-<!--
-**amcc4-ctl/amcc4-ctl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Skills 
+|Skills                             | Toolset                |
+|-----------------------------------|------------------------|
+|Vulnerability Assessment           | Nessus, Nmap |
+|Network Traffic & Log Analysis     | Wireshark, Snort, Splunk|
+|Digital Forensics & Incident Response| FTK Imager, Autopsy, Volatility |
+|Web Application Penetration Testing| Metasploit, Burp Suite | 
+|Window/Linux System Administration | Powershell, Active Directory |  
+|Programming                        | Python, Java, C, JavaScript, HTML | 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Projects
+
+<h2>Cybersecurity Projects</h2>
+- <a href="https://github.com/amcc4-ctl/">Proj1</a> <i>(Descript)</i><br/>
+- <a href="https://github.com/amcc4-ctl/">Proj2</a> <i>(Descript)</i><br/>
+- <a href="https://github.com/amcc4-ctl/">Proj3</a> <i>(Descript)</i>
+
+<h2>General Projects</h2>
+- <a href="https://github.com/amcc4-ctl/">Proj1</a> <i>(Descript)<br/>
+- <a href="https://github.com/amcc4-ctl/">Proj2</a> <i>(Descript)
